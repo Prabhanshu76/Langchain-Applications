@@ -1,0 +1,10 @@
+cassio 
+datasets 
+langchain==0.2.2
+tiktoken
+google
+langchain-google-genai
+langchain_community
+python-dotenv
+streamlit
+PyPDF2
